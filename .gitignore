@@ -136,7 +136,8 @@ dmypy.json
 #Python Cache
 #Data
 *.csv
-!Data/MoMA/Artists-utf8-small.csv
-!Data/MoMA/Artworks-utf8-small.csv
+!Data/Skylines/airports-utf8-small.csv
+!Data/Skylines/routes-utf8-small.csv
+!Data/Skylines/worldcities-utf8.csv
 
 .vim
